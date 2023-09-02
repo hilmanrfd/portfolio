@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #222831;
+  background: linear-gradient(#00adb5, #222831);
   color: #b7d1d1;
 }
 
@@ -32,7 +32,7 @@ header {
 
 .navbar a {
   font-size: 18px;
-  color: #00adb5;
+  color: #424e4e;
   text-decoration: none;
   font-weight: 500;
   margin-left: 35px;
